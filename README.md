@@ -1,6 +1,18 @@
-# Soon to be sequencer app
+# Front End Boilerplate
 
-At the moment I have a bare-bones front-end vanilla js boilerplate, leveraging webpack and babel to allow us to modern JS and npm for packages. On top of that there's some eslint and prettier settings to keep everything nice.
+A bare-bones front-end vanilla js boilerplate, leveraging
+
+- Webpack and Babel to allow us to modern JS and npm for packages
+- TypeScript
+- ESlint and prettier settings to keep everything nice
+
+There are deliberately no frameworks in this boilerplate. They could be added on later.
+
+The intention is that this should allow quick prototyping or fun-and-games projects to be done while using JS in a manner that's more familiar to me: i.e. using import / export, availability of NPM modules, strong typing.
+
+# To Do
+
+- Add support for async / await, I don't think it comes out of the box with babel.
 
 # NPM Scripts
 
